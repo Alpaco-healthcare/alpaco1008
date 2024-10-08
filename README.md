@@ -9,4 +9,6 @@
 
 ![architecture](https://github.com/user-attachments/assets/b20d1d62-172c-416e-bab4-b653c6de8444)
 
+7. Output
 
+![output](https://github.com/user-attachments/assets/743c4ede-fca0-47c8-a500-a3c2fe145b7a)
